@@ -3645,6 +3645,7 @@ textarea.form-control-lg {
 }
 
 .navbar {
+  
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
   --bs-navbar-color: rgba(0, 0, 0, 0.55);
@@ -3841,6 +3842,7 @@ textarea.form-control-lg {
   .navbar-expand-md .navbar-collapse {
     display: flex !important;
     flex-basis: auto;
+    text-align: center !important; 
   }
   .navbar-expand-md .navbar-toggler {
     display: none;
